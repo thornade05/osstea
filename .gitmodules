@@ -1,0 +1,6 @@
+[submodule "node_module"]
+	path = node_module
+	url = https://github.com/thornade05/osstea2.git
+[submodule "osstea2"]
+	path = osstea2
+	url = https://github.com/thornade05/osstea2.git

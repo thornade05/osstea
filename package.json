@@ -1,6 +1,6 @@
 {
   "name": "osstea",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "project osstea",
   "main": "index.js",
   "scripts": {
